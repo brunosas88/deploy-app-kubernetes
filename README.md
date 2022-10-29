@@ -7,7 +7,7 @@ um cluster kubernetes utilizando a plataforma da Google Cloud que opere sobre os
 
 ## Configuração
 Após rodar o script e confirmar a criação do cluster é necessário pegar o IP externo gerado pelo serviço do backend para acesso utilizando o frontend modificando 
-o arquivo javascript **js.js**, linha 8, parâmentro **url** que deve conter o valor **htt://ip_aplicação** dentro das aspas.
+o arquivo javascript **js.js**, linha 8, parâmentro **url** que deve conter o valor **htt://ip_da_aplicação** dentro das aspas.
 
 
 
